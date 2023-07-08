@@ -1,4 +1,4 @@
-package day1;
+package arrays.easy;
 import java.util.*;
 public class ChocolateDistributionProblem
 {
